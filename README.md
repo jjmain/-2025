@@ -1,6 +1,7 @@
+![banner](https://raw.githubusercontent.com/jjmain/Quantum_Information_Competition_2025/main/assets/banner.png)
+
+
 ## 📝 Problem Statement & Tasks
-
-
 
 2025 Quantum Hackathon
 Classification
