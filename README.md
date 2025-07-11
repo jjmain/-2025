@@ -1,4 +1,5 @@
-![banner](https://raw.githubusercontent.com/jjmain/Quantum_Information_Competition_2025/main/assets/banner.png)
+
+<img width="1191" height="1685" alt="포스터" src="https://github.com/user-attachments/assets/90c75704-01f2-4ed1-bf71-148bd66442fd" />
 
 
 ## 📝 Problem Statement & Tasks
