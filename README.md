@@ -3,7 +3,7 @@
 <details>
 <summary><strong>Click to view the full problem text</strong></summary>
 
-```text
+
 2025 Quantum Hackathon
 Classification
 Quantum Algorithms: Quantum Phase Estimation
