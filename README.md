@@ -1,7 +1,5 @@
 ## 📝 Problem Statement & Tasks
 
-<details>
-<summary><strong>Click to view the full problem text</strong></summary>
 
 
 2025 Quantum Hackathon
